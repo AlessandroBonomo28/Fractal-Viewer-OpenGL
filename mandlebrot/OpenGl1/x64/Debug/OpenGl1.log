@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (OpenGl1.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  main.cpp
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\main.cpp(116,26): warning C4267: 'inizializzazione': conversione da 'size_t' a 'GLint'. Possibile perdita di dati.
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\main.cpp(119,74): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\main.cpp(119,110): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+  OpenGl1.vcxproj -> C:\Users\Alessandro\source\repos\mandlebrot\x64\Debug\mandlebrot.exe

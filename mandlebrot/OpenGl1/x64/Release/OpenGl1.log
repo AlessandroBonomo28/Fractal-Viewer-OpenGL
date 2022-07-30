@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: la directory intermedia (x64\Release\) contiene file condivisi da un altro progetto (mandlebrot.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  EBO.cpp
+  main.cpp
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\main.cpp(99,25): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\main.cpp(120,26): warning C4267: 'inizializzazione': conversione da 'size_t' a 'GLint'. Possibile perdita di dati.
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\main.cpp(123,74): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\main.cpp(123,110): warning C4244: 'argomento': conversione da 'float' a 'const unsigned __int64'. Possibile perdita di dati.
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\main.cpp(214,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  shaderClass.cpp
+  VAO.cpp
+C:\Users\Alessandro\source\repos\mandlebrot\OpenGl1\VAO.cpp(13,63): warning C4244: 'argomento': conversione da 'GLsizeiptr' a 'GLsizei'. Possibile perdita di dati.
+  VBO.cpp
+  glad.c
+  Generazione codice in corso...
+  Previous IPDB not found, fall back to full compilation.
+  All 287 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  OpenGl1.vcxproj -> C:\Users\Alessandro\source\repos\mandlebrot\x64\Release\FractalViewer.exe

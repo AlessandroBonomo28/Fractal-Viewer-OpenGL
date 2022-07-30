@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\Alessandro\source\repos\OpenGl1\OpenGl1\main.cpp(1,10): fatal error C1083: Non è possibile aprire il file inclusione: 'GLFW/glfw3.h': No such file or directory
