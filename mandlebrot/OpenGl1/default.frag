@@ -47,7 +47,7 @@ int get_iterations()
         //real = (real * real * real - 3*real*imag*imag ) + const_real;
         //imag = ( 3*tmp_real *tmp_real* imag - imag*imag*imag) + const_imag;
         
-        //mandlebrot alla quarta (z = z^4 + c) By Paolo e Alex, brilli all'1 di mattina, 24 Lug 2022
+        //mandlebrot alla quarta (z = z^4 + c) By Paolo e Alex, 01:00 AM 24 Lug 2022
         //real = (real * real * real * real - 6 * real * real * imag * imag + imag * imag * imag * imag + const_real);
         //imag = (4 * tmp_real * tmp_real * tmp_real * imag - 4 * tmp_real * imag * imag * imag + const_imag);
 
